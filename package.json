@@ -1,0 +1,17 @@
+{
+  "name": "callek",
+  "version": "1.1.1",
+  "private": true,
+  "description": "Foo",
+  "author": "Callek <Callek+spam@gmail.com>",
+  "license": "Apache",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "typescript": "^4.5.0"
+  },
+  "engines": {
+    "node": ">= 19.2.0"
+  }
+}
