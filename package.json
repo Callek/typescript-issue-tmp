@@ -9,6 +9,7 @@
     "build": "tsc"
   },
   "dependencies": {
+    "@types/update-notifier": "^5.0.0",
     "typescript": "^4.5.0"
   },
   "engines": {
